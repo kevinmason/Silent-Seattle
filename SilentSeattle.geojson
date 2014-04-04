@@ -15,6 +15,21 @@
           47.55312816069254
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Placename": "Metsker Maps",
+        "Notes": "A neat map store",
+        "link": "www.metskers.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34044551849364,
+          47.609287877609994
+        ]
+      }
     }
   ]
 }
